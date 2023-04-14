@@ -1,6 +1,7 @@
 #----------------------------------- https://github.com/m4mallu/clonebot --------------------------------------------#
 import os
 import logging
+config.fp16 = False
 
 logging.basicConfig(
     level=logging.INFO,
